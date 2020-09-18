@@ -1,0 +1,40 @@
+
+a {
+	font-size: 33px;
+    color: fff;
+	margin: 80px 500px;
+	text-decoration: none;
+	font-family: consolas;
+}
+h1 {
+	font-family: tagerine;
+	margin: 20px 150px;
+	font-size: 100px
+	
+}
+body {
+	background:url(fondo.jpg);
+	color: fff
+   
+	
+}
+@font-face{
+	font-family: tagerine;
+	src:url(letra.ttf) ;
+	
+}
+
+header {
+	font-size: 33px;
+	margin: 100px 300px;
+	
+}
+article {
+	 font-size: 26px;
+	 margin: 50px 50px;
+	 font-family: N simsum;
+}
+
+img {
+	margin: 80px 425px;
+}
